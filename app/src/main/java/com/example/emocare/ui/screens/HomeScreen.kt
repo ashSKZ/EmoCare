@@ -47,7 +47,7 @@ fun HomeScreen(
 
     val coroutineScope = rememberCoroutineScope()
 
-    val apiKey = "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"
+    val apiKey = "0"
 
     Column(
         modifier = Modifier
